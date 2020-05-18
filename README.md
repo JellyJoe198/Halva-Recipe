@@ -12,7 +12,7 @@ __optional:__
 - 1 cup peanut butter
 
 ### Optional tools:  
-- parchment paper (to make it not stick to cooling pan)
+- parchment paper (to prevent sticking)
 - candy thermometer
 
 ## Procedure
