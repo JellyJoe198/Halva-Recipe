@@ -1,5 +1,5 @@
 # Halva-Recipie
-this is similar to the halva (dry halwa) I had in the Israeli Negev Desert
+this is similar to the halva (dry halwa) I had in the Israeli Negev Desert  
 adapted from [this recipie](https://youtu.be/64_ckmBf01M)
 
 ### Ingredients  
