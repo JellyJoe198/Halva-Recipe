@@ -11,7 +11,7 @@ adapted from [this recipie](https://youtu.be/64_ckmBf01M) and also [this](https:
 __optional:__  
 - 1 cup peanut butter
 
-### Tools
+## Tools
 - 1 medium pot
 - 1 small pot or bowl (for the tahini)
 - measuring cups (1 for dry, 1 for wet)  
@@ -31,3 +31,5 @@ __optional:__
 4. Add the vanilla to the tahini and stir to an even consistency.  
 5. Once the sugar is heavily boiling (~240°F), pour the Tahini in and mix. Also mix in the peanut butter at this time. Once it is an even consistency you can stop mixing, but it is up to your preference. Less mixing means a more flaky product, more mixing means a more puffy and stringy product.  
 6. Pour the mixture into the cooling pan and Let sit for at least 24 hours to let halva cure as it cools. After the 24 hours place the halva in the fridge if you want it to cure even further.  
+7. Cut the halva into squares and enjoy! It is great as a quick hearty breakfast or even a dessert.  
+
