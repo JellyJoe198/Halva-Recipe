@@ -11,18 +11,9 @@ Adapted from recipes I found on YouTube
 __optional:__  
 - 1 cup peanut butter
 
-## Tools
-- 1 medium pot
-- 1 small pot or bowl (for the tahini)
-- measuring cups (1 for dry, 1 for wet)  
-- heating stove
-- 8x8inch pan or 2 bread pans (to let halva cool in)  
-
-__optional:__  
+### Optional tools:  
 - parchment paper (to make it not stick to cooling pan)
 - candy thermometer
-- microwave
-- refrigerator
 
 ## Procedure
 1. Fill a medium pot with 1/2 cup water and 2 cups sugar, and place on medium heat. 
