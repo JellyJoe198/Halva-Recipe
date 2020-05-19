@@ -1,6 +1,6 @@
 # Halva-Recipe
 This is similar to the halva (dry halwa) I had in the Israeli Negev Desert.  
-Adapted from recipes I found on YouTube
+Adapted from [this recipie](https://youtu.be/64_ckmBf01M) and also [this](https://youtu.be/sfAaV5EGfYY)
 
 ## Ingredients  
 - 2 cups of sugar
