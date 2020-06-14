@@ -20,10 +20,9 @@ __optional:__
 2. Stir the pot occasionally until it gets close to boiling (~200°F)
 3. Warm the Tahini to ~100°F, either in a bowl in the microwave or in a small pot on the stove. Also warm the peanut butter at this time if using.  
 4. Add the vanilla to the warm tahini and stir to an even consistency. Also mix the peanut butter in at this time if using. 
-5. Once the sugar solution is heavily boiling (~240°F), turn the heat to low and add the Tahini mixture and mix. It may take a lot of mixing, as the Tahini tends to float on top of the sugar. 
-Keep mixing until the mixture starts acting more like bread dough than a liquid. It will thicken slightly and become more airy.  
-6. Pour the mixture into an 8X8 pyrex pan or 2 breadpans. You can line the pan with parchment paper if desired, though it is not usually necessary. 
-Pat it down to fill the bottom of the pan to make the halva more evenly shaped. 
-Let sit for at least 24 hours to let halva cure as it cools.  
-7. Cut the halva into squares and enjoy! It is great as a quick hearty breakfast or even a dessert.  
+5. Once the sugar solution is heavily boiling (~240°F), change the heat to low and add the Tahini mixture. Mix until it is an even consistency. It may take a lot of mixing, as the Tahini tends to float on top of the sugar. Once it is at an even consistency, turn off the heat, but keep stirring the mixture.  
+Keep stirring until the mixture starts acting more like bread dough than a liquid. It will thicken slightly and become more airy. The more you stir the mixture before putting it in the cooling pan, the more fluffy and together the final product will be. If you stir it it less time it will be flaky and fall apart easily.  
+6. Pour the mixture into an 8X8 pyrex pan or 2 breadpans. You can line the pan with parchment paper if desired, though it is not usually necessary. Pat it down to fill the bottom of the pan to make the halva more evenly shaped. 
+7. Let sit for at least 24 hours to let halva cure as it cools.  
+8. Cut the halva into squares and enjoy! It is great as a quick hearty breakfast or even a dessert.  
 
