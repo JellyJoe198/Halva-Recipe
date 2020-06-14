@@ -9,7 +9,7 @@ Adapted from [this recipie](https://youtu.be/64_ckmBf01M) and also [this](https:
 - 1 light tsp vanilla extract  
 
 __optional:__  
-- 1 cup peanut butter
+- up to 1 cup peanut butter
 
 ### Optional tools:  
 - parchment paper (to prevent sticking)
