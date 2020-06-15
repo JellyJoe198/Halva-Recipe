@@ -8,7 +8,7 @@ Adapted from [this recipe](https://youtu.be/64_ckmBf01M) and also [this](https:/
 - 2 cups* of Tahini Paste
 - 1 light tsp vanilla extract  
 
-__optional:__  
+#### optional:  
 - up to 1/2 cup peanut butter. *The sum of Tahini and Peanut Butter should add up to 2 cups. 
 
 ### Optional tools:  
