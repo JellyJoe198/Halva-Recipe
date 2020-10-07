@@ -27,3 +27,6 @@ Continue stirring until the mixture thickens and becomes airy. The more you stir
 8. Cut the halva into squares and enjoy! It is great as a quick hearty breakfast, snack, or even a dessert.
 
 
+## Troubleshooting
+Too much water, the product will be moist and less strong.  
+Not enough mixing, the product will be too flaky.  
