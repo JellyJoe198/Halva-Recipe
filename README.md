@@ -37,7 +37,10 @@ Step 5b: If there seems to be excess oil, you probably added too much water or u
 ### Troubleshooting
 Too much water, the product will be moist/oily and less held together.  
 Not enough mixing, the product will be too flaky.  
+Too much mixing, the product will be too crumbly; not held together. Note: some crumbs are ok, it is up to taste.
 
 ### Expert Tips
-*coming soon*
-
+Add any spices to the Tahini/Peanut Butter mix before heating. The warmer the tahini is, the easier it will be to properly mix it into the sugar water.  
+You can use any kind of paste in place of the 2c Tahini. Good mixtures:  
+* 1.9c Peanut butter, cut peanuts, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg, 1/8 Tbsp Cloves.  
+* 1.4c Peanut butter, .5c Tahini, 2 Tbsp small Cacao Nibs, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg
