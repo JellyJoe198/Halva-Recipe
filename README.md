@@ -11,8 +11,8 @@ Adapted from [this recipe](https://youtu.be/64_ckmBf01M) and also [this](https:/
 - 1 light tsp vanilla extract  
 
 #### optional:  
-- up to 2 cup peanut butter. <b>*The combination of Tahini and Peanut Butter should add up to 2 cups</b>.  
-- spices: some cultures like to add Cinnamon, Nutmeg, Rose Water, chocolate, or Pistachio and other nut crumbles. These would be added to the tahini/peanut butter mix.  
+- up to 2 cup peanut butter. <b>*</b>The combination of Tahini and Peanut Butter should add up to 2 cups.  
+- spices: some cultures like to add Cinnamon, Nutmeg, Rose Water, chocolate, or Pistachio and other nut crumbles. These would be added to the tahini/peanut butter mix. See `expert tips` for more info.  
 
 ### Optional tools:  
 - parchment paper (to prevent sticking)
