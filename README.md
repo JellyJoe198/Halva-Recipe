@@ -44,4 +44,5 @@ Add any spices to the Tahini/Peanut Butter mix before heating. The warmer the ta
 You can use any kind of paste in place of the 2c Tahini.  
 Example mixtures:  
 * 1.9c Peanut butter, cut peanuts, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg, 1/8 Tbsp Cloves.  
-* 1.4c Peanut butter, .5c Tahini, 2 Tbsp small Cacao Nibs, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg
+* 1.4c Peanut butter, .5c Tahini, 2 Tbsp small Cacao Nibs, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg.  
+* 1.9c Tahini paste, pistachio nut crumbles, 1 Tbsp Vanilla.  
