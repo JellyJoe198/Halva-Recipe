@@ -7,11 +7,11 @@ Adapted from [this recipe](https://youtu.be/64_ckmBf01M) and also [this](https:/
 ## Ingredients  
 - 2 cups of sugar
 - 1/2 cup water
-- 2 cups__*__ of Tahini Paste
+- 2 cups<b>*</b> of Tahini Paste
 - 1 light tsp vanilla extract  
 
 #### optional:  
-- up to 2 cup peanut butter. __*__The combination of Tahini and Peanut Butter should add up to 2 cups.  
+- up to 2 cup peanut butter. <b>*</b>The combination of Tahini and Peanut Butter should add up to 2 cups.  
 - spices: some cultures like to add Cinnamon, Nutmeg, Rose Water, chocolate, or Pistachio and other nut crumbles. These would be added to the tahini/peanut butter mix.  
 
 ### Optional tools:  
