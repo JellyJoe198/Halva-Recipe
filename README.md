@@ -43,18 +43,18 @@ Continue stirring until the mixture thickens and becomes airy. The more you stir
 
 ### notes
 Step 1: The sugar solution should be oversaturated to enable good crystallization later. Do not cover the sugar water, as the drips make it heat unevenly.  
-Step 5a: If you are too slow pouring the tahini in, it may become uneven and some chunks of tahini will become stuck in the mixture.   
-Step 5b: If there seems to be excess oil, you probably added too much water or used a bad tahini/peanut butter. This will make the product less pleasant, but you can pour off the excess oil (or dry with paper towel) before putting it into curing pan. This is not as important if you plan to eat the halva with silverware.
+Step 5a: If the tahini is too cold it won't mix into the sugar as well. This is why you can't add more tahini after you've already started mixing.  
+Step 5b: Some oiliness can be good, but if there seems to be too much excess oil you can pour it off or absorb with a paper towel.  
 
 #### Troubleshooting
-Too much water, the product will be moist/oily and less held together.  
-Not enough mixing, the product will be too flaky.  
-Too much mixing, the product will be too crumbly; not held together. Note: some crumbs are ok, it is up to taste.  
+Too much water, the product will be less held together.  
+Not enough mixing, the product will be flaky; not held together.  
+Too much mixing, the product will be crumbly; not held together. Note: some crumbs or flakiness is ok, it is up to personal taste.  
 
 ### Expert Tips
 Add any spices to the Tahini/Peanut Butter mix before heating. The warmer the tahini is, the easier it will be to properly mix it into the sugar water.  
 You can use any kind of paste in place of the 2c Tahini.  
 Example mixtures:  
 * 1.9c Peanut butter, cut peanuts, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg, 1/8 Tbsp Cloves.  
-* 1.4c Peanut butter, .5c Tahini, 2 Tbsp small Cacao Nibs, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg.  
+* 1.4c Tahini, .5c Peanut butter, 2 Tbsp small Cacao Nibs, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg.  
 * 1.9c Tahini paste, pistachio nut crumbles, 1 Tbsp Vanilla.  
