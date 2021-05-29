@@ -1,5 +1,5 @@
 # Israeli Halva
-This is an imitation of the halva (dry halwa) I had in the Israeli Negev Desert.  
+This is an imitation of the halva (dry halwa) I had in the Israeli Negev Desert. It can be very rich depending on what tahini you use.  
 Adapted from [this recipe](https://youtu.be/64_ckmBf01M) and [this](https://youtu.be/sfAaV5EGfYY)  
 **Preparation time**: minimum 30 minutes, max 90 minutes. (depends on mixing time; slower generally means better product)  
 **Curing time**: at least 12 hours.  
