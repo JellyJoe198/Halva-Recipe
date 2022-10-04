@@ -1,14 +1,14 @@
 # Israeli Halva
 This is an imitation of the halva (dry halwa) I had in the Israeli Negev Desert. It can be very rich depending on what tahini you use.  
-Adapted from [this recipe](https://youtu.be/64_ckmBf01M) and [this](https://youtu.be/sfAaV5EGfYY)  
-**Preparation time**: minimum 30 minutes, max 90 minutes. (depends on mixing time; slower generally means better product)  
+Adapted from [this recipe](https://youtu.be/64_ckmBf01M) and [this](https://youtu.be/sfAaV5EGfYY).  
+**Preparation time**: minimum 30 minutes, max 90 minutes, larger batches take longer. (depends on cooling and mixing time; slower generally means better product)  
 **Curing time**: at least 12 hours.  
 
 ## Ingredients  
-- 2 cups of sugar (403 g)
+- 2 cups sugar (403 g)
 - 1/2 cup water (118 g)
 - 2 cups<b>*</b> of Tahini Paste (450 g tahini)
-- 1 light tsp vanilla extract (5 mL)
+- 1 tsp vanilla extract (5 mL)
 
 #### optional ingeredients:  
 - up to 2 cup peanut butter. <b>*</b>The combination of Tahini and Peanut Butter should add up to 2 cups (473 mL total).  
@@ -45,6 +45,7 @@ Continue stirring until the mixture thickens and becomes airy. The more you stir
 Step 1: The sugar solution should be oversaturated to enable good crystallization later. Do not cover the sugar water, as the drips make it heat unevenly.  
 Step 5a: If the tahini is too cold it won't mix into the sugar as well. This is why you can't add more tahini after you've already started mixing.  
 Step 5b: Some oiliness can be good, but if there seems to be too much excess oil you can pour it off or absorb with a paper towel.  
+General: larger batches make more consistent results, but require more time to cool and mix properly, e.g. a triple batch takes about 2 hours.
 
 #### Troubleshooting
 Too much water, the product will be less held together.  
@@ -55,6 +56,6 @@ Too much mixing, the product will be crumbly; not held together. Note: some crum
 Add any spices to the Tahini/Peanut Butter mix before heating. The warmer the tahini is, the easier it will be to properly mix it into the sugar water.  
 You can use any kind of paste in place of the 2c Tahini.  
 Example mixtures:  
-* 1.9c Peanut butter, cut peanuts, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg, 1/8 Tbsp Cloves.  
-* 1.4c Tahini, .5c Peanut butter, 2 Tbsp small Cacao Nibs, 1 Tbsp Vanilla, 1/4 Tbsp Nutmeg.  
-* 1.9c Tahini paste, pistachio nut crumbles, 1 Tbsp Vanilla.  
+* 1.9c Peanut butter, cut peanuts, 1 Tsp Vanilla, 1/4 Tbsp Nutmeg, 1/8 Tsp Cloves.  
+* 1.4c Tahini, .5c Peanut butter, 2 Tbsp small Cacao Nibs, 1 Tsp Vanilla, 1/4 Tsp Nutmeg.  
+* 1.9c Tahini paste, pistachio nut crumbles, 1 Tsp Vanilla.  
